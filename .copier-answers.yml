@@ -1,0 +1,8 @@
+# Changes here will be overwritten by Copier
+_commit: '0.2'
+_src_path: gh:Netbeheer-Nederland/template-doc
+description: Belangrijke architectuurbeslissingen inclusief context, afwegingen en
+    consequenties.
+git_protocol: SSH
+name: adrs
+title: Architecture Decision Records
